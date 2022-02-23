@@ -214,23 +214,11 @@ Google Analytics-это сервис веб-аналитики, предлага
 
 Для получения дополнительной информации о политике конфиденциальности Google, пожалуйста, посетите веб-страницу Условия конфиденциальности Google: http://www.google.com/intl/en/policies/privacy
 
-#Devtodev
-
-#Devtodev-это аналитический сервис.
-
-#Мы также рекомендуем вам ознакомиться с политикой devtodev для защиты ваших данных: https://www.devtodev.com/policy
-
 Яндекс.Metrica
 
 AppMetrica-это аналитический сервис, предоставляемый компанией YANDEX, Oy.
 
 Мы также рекомендуем вам ознакомиться с политикой AppMetrica для защиты ваших данных: https://yandex.ru/legal/confidential
-
-#AppsFlyer
-
-#AppsFlyer-это аналитический сервис, предоставляемый компанией AppsFlyer Ltd.
-
-#Мы также рекомендуем вам ознакомиться с политикой AppsFlyer для защиты ваших данных: https://www.appsflyer.com/privacy-policy
 
 Unity Analytics
 
