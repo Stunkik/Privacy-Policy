@@ -214,12 +214,6 @@ Google Analytics-это сервис веб-аналитики, предлага
 
 Для получения дополнительной информации о политике конфиденциальности Google, пожалуйста, посетите веб-страницу Условия конфиденциальности Google: http://www.google.com/intl/en/policies/privacy
 
-Яндекс.Metrica
-
-AppMetrica-это аналитический сервис, предоставляемый компанией YANDEX, Oy.
-
-Мы также рекомендуем вам ознакомиться с политикой AppMetrica для защиты ваших данных: https://yandex.ru/legal/confidential
-
 Unity Analytics
 
 Unity Analytics предоставляется компанией Unity Technologies.
