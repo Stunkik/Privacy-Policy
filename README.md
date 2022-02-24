@@ -220,12 +220,6 @@ Unity Analytics предоставляется компанией Unity Technolo
 
 Мы также рекомендуем вам ознакомиться с политикой Unity Technologies по защите ваших данных: https://unity3d.com/legal/privacy-policy
 
-Продукты Facebook
-
-Facebook Products предоставляется Facebook, Inc. и Facebook Ireland Ltd.
-
-Мы также рекомендуем вам ознакомиться с политикой Facebook по защите ваших данных: https://www.facebook.com/privacy/explanation
-
 Реклама
 
 Мы можем использовать сторонних поставщиков услуг для показа вам рекламы, чтобы помочь поддерживать и поддерживать наш Сервис.
